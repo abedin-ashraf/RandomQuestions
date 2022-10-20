@@ -1,3 +1,4 @@
+//A program that will grade multiple-choice test
 import java.util.Scanner;
 
 public class GradeExam {
